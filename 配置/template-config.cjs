@@ -2,7 +2,7 @@
 const TEMPLATE_CONFIG = [
   {
     id: '0001',
-    title: '亲爱的, 早上好',
+    title: '樊宝贝, 早上好',
     desc: `
       **{{date.DATA}}**
       
@@ -10,7 +10,7 @@ const TEMPLATE_CONFIG = [
       
       ---
       
-      城市：{{city.DATA}}
+      城市：{{南昌，进贤}}
       
       天气：{{weather.DATA}}
       
@@ -24,9 +24,9 @@ const TEMPLATE_CONFIG = [
       
       ---
       
-      今天是我们相识的第{{love_day.DATA}}天
+      今天是我们相识的第{{264}}天
       
-      {{birthday_message.DATA}}
+     距离宝宝的生日还有 {{49}}天
       
       ---
       
